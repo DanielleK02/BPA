@@ -1,0 +1,147 @@
+body {
+ background-color: lightgreen;
+ background-image:url('earth.gif');
+ background-repeat: repeat-y;
+ text-align: right;
+ margin: 10px;
+}
+
+ h1 {
+     color: midnightblue;
+     font-size: 45px;
+     text-align: center;
+     text-shadow: 3px 5px 5px white;
+    }
+
+nav {
+    width: 12%;
+    font-family: cursive;
+    text-align: center;
+    flex-direction: column;
+    font-size: 25px;
+    float: right;
+    box-shadow: 2px 2px 7px black;
+}
+
+nav a {
+
+    display: block;
+    padding: 5%;
+    margin: 15px;
+}
+
+a:hover {
+    background-color: white;
+}
+
+article {
+    background-color: white;
+    border: 2px solid midnightblue;
+    width: 81%;
+    height: 100%;
+    margin-left: 250px;
+    padding: 0.7%;
+    font-family: cursive;
+    text-align: left;
+}
+article#workcited div{
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+
+section {
+    width: 85%;
+    float: left;
+}
+
+ img#solar {
+    float: left;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+
+img#turbine {
+    float: right;
+    margin-left: 245px;
+    margin-top: 2px;
+}
+img#panels {
+    float: right;
+    margin-right: 275px;
+}
+img#town {
+    float: left;
+    margin-left: 275px;
+    margin-top: 30px;
+}
+img#world {
+    float: right;
+    margin-top: 1px;
+}
+
+img#home {
+    float: right;
+      margin-right: 80px;
+}
+
+img#solarp {
+    float: right;
+    margin-top: 30px;
+}
+
+p#solar {
+    background-color: white;
+    font-family: cursive;
+    float: right;
+    width: 200px;
+    margin-right: 50px;
+    text-align: center;
+    padding: 0.4%;
+    border: 2px solid midnightblue;
+}
+
+img#diagram {
+    float: left;
+    margin-top: 20px;
+    margin-left: 450px;
+}
+
+img#farm {
+    float: right;
+    margin-right: 65px;
+}
+
+img#logo {
+    float: right;
+    margin-right: 30px;
+}
+
+img#pollution {
+    float: left;
+    margin-left: 275px;
+    margin-top: 20px;
+}
+
+img#stop {
+    float: right;
+    margin-right: 100px;
+}
+
+img#carP {
+    float: right;
+    margin-right: 10px;
+    margin-top: 90px;
+}
+
+img#water {
+    float: right;
+    margin-right: 80px;
+}
+
+img#window {
+    float: left;
+    margin-top: 20px;
+    margin-left: 500px;
+}
