@@ -15,7 +15,7 @@ body {
 
 nav {
     width: 12%;
-    font-family: cursive;
+    font-family: sans-serif;
     text-align: monospace;
     flex-direction: column;
     font-size: 25px;
@@ -72,7 +72,7 @@ img#panels {
     margin-right: 275px;
 }
 img#town {
-    float: left;
+    float: center;
     margin-left: 275px;
     margin-top: 30px;
 }
