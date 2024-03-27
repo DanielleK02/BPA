@@ -37,9 +37,9 @@ a:hover {
 article {
     background-color: white;
     border: 2px solid midnightblue;
-    width: auto;
+    width: 80%;
     height: 100%;
-    margin-left: 250px;
+    margin-left: 300px;
     padding: 0.7%;
     font-family: sans-serif;
     text-align: center;
