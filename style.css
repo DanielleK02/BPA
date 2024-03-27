@@ -37,12 +37,12 @@ a:hover {
 article {
     background-color: white;
     border: 2px solid midnightblue;
-    width: 81%;
+    width: auto;
     height: 100%;
     margin-left: 250px;
     padding: 0.7%;
     font-family: sans-serif;
-    text-align: left;
+    text-align: center;
 }
 article#workcited div{
     margin-top: 10px;
